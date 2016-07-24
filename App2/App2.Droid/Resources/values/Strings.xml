@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">302 - Coffee</string>
+  <string name="hello1">102 - Coffee</string>
+	<string name="app_name">C2C v0.01</string>
+</resources>
